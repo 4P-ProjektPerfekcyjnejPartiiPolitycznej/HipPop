@@ -1,6 +1,9 @@
 # HipPop -- nowoczesna(hip) partia organizacji pozarządowych.
 
-Projekt HIip-Pop jest projektem społecznym którego celem jest danie organizacjom pozarządowym możliwość wystawienia swoich kandydatów w wyborach do sejmu w sposób uczciwy i niezależny od siebie.
+Mamy w kraju wiele organizacji pozarządowych które wiedzą jak rozwiązać  problemy w kraju. Niestety ich eksperci nie mają możliwości kandydować do sejmu gdzie te problemy się rozwiązuje. 
+
+Hip-Pop jest projektem społecznym którego celem jest założenie partii politycznej z której do sejmu będą kandydować osoby wyznaczone przez organizacje pozarządowe w uczciwy i niezależny od siebie sposób. 
+
 
 Projekt składa on się z czterech etapów:
 
@@ -353,7 +356,7 @@ Bycie posłem to nie przywilej tylko praca, dodatkowo bardzo ważna i droga dla 
 Każdy osoba chętna do kandydowania z HipPop będzie musiała podpisać umowę o przestrzeganiu zasad pracy. 
 
 Przy modelowaniu pracy posłów, kierujemy się poniższymi zasadami:
-* Posłowie pln21 pracują w jednym tym samym biurze w Warszawie;
+* Posłowie HipPop pracują w jednym tym samym biurze w Warszawie;
 * Mają prawa i obowiązki normalnego pracownika biurowego;
 * Stosują nowoczesne metody zarządzania (np. techniki zwinne, aplikacje do zarządzania zadaniami typu jira lub trello);
 * Wykorzystują nowe technologie komputerowe;
