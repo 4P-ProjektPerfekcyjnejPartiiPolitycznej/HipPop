@@ -319,8 +319,7 @@ Jeśli uważasz, że powinny być inne zgłoś swoją propozycje edytując [ten 
 
 
 
-## Etap 2:
-Ustalenie zasad na podstawie których organizacje pozarządowe wystawiają kandydatów.
+## Etap 2: Ustalenie zasad na podstawie których organizacje pozarządowe wystawiają kandydatów.
 
 Na chwilę obecną jest jedna propozycja:
 
