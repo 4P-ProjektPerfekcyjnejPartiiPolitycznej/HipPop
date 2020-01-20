@@ -9,9 +9,8 @@ Projekt składa on się z czterech etapów:
 
 ## Etap1:
 Przypisanie do każdego z 41 okręgów wyborczych specjalizacje której reprezentanci są potrzebni w sejmie.
-Aktualne, nie ostateczne specjalizacje okręgów:
 
-![okregi-html.md](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/okregi-html.md)
+[okregihtml.md](https://github.com/PartiaLudziNiezaleznych21/HipPop/blob/master/okregi.md)
 
 Jeśli uważasz, że powinny być inne zgłoś swoją propozycje edytując [ten plik](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Specjalizacje%20Okr%C4%99g%C3%B3w%20Wyborczych.md).
 
