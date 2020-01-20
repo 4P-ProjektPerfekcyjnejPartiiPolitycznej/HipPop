@@ -7,8 +7,7 @@ Hip-Pop jest projektem społecznym którego celem jest założenie partii polity
 
 Projekt składa on się z czterech etapów:
 
-## Etap1:
-Przypisanie do każdego z 41 okręgów wyborczych specjalizacje której reprezentanci są potrzebni w sejmie.
+## Etap1: Przypisanie do każdego z 41 okręgów wyborczych specjalizacje której reprezentanci są potrzebni w sejmie.
 Aktualne, nie ostateczne specjalizacje okręgów:
 
 <table class="table table-bordered table-hover table-condensed">
@@ -345,22 +344,21 @@ Nazwa organizacji | ilość polubień na fb | ilość kandydatów do zgłoszenia
 Jeśli masz inny system proszę podaj go w [tym plik](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/ZasadyRekrutacji.md).
 
 
-## Etap 3: Ustaleni wymagń dla kandydatów.
+## Etap 3: Ustalenie wymagń dla kandydatów.
 Każdy kto będzie kandydował z HipHop na pewno musi przedstawić opinii publicznej swoje CV, list motywacyjny i wypełnić odpowiednią ankietę. 
 
-## Etap4: Ustaleni stylu pracy w sejmie
+## Etap4: Ustalenie stylu pracy w sejmie
 
-Bycie posłem to nie przywilej tylko praca, dodatkowo bardzo ważna i droga dla podatników. Dlatego jednym z podprojektów HipPop jest [burza mózgów](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow) jak powinni pracować posłowie. Robimy to w dwóch wariantach:
-* Przy aktualnym trybie pracy sejmu modelujemy, jak powinni pracować posłowie HipPop
-* Po wyborach będzie wola w sejmie i możemy zmienić tryb pracy wszystkich posłów
+Bycie posłem to nie przywilej tylko praca, dodatkowo bardzo ważna i droga dla podatników. Dlatego jednym z podprojektów HipPop jest [burza mózgów](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow) jak powinni pracować posłowie.
 
 Każdy osoba chętna do kandydowania z HipPop będzie musiała podpisać umowę o przestrzeganiu zasad pracy. 
 
-Przy modelowaniu pracy posłów, kierujemy się poniższymi zasadami:
-* Posłowie HipPop pracują w jednym tym samym biurze w Warszawie;
-* Mają prawa i obowiązki normalnego pracownika biurowego;
-* Stosują nowoczesne metody zarządzania (np. techniki zwinne, aplikacje do zarządzania zadaniami typu jira lub trello);
-* Wykorzystują nowe technologie komputerowe;
-* Zatrudniają dodatkowe osoby (np. programistów, matematyków, menedżerów);
+Nowy model pracy opiera się na poniższych założeniach:
+- jedno wspólne biuro w Warszawie,
+- praca przez cały rok z 26 dniami urlopu jak normalny pracownik biurowy
+z dodatkowymi prawami i obowiązkami [określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/PrawaObowiazkiZakazy.md),
+- wdrażanie dobrych praktyk z korporacji (praca w systemie  Scrum ,monitorowanie czasu, kanban). [Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/NoweStandardyPracy.md),
+- wykorzystywanie nowoczesnych technologii ( praca w chmurze, jira). [Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/NoweTechnologie.md)
+- zatrudnienie jednej sekretarki i wielu specjalistów(np. osoby do robienie analiz ryzyka i statystycznych, programisty, tłumacza). [Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/WspolpracownicyPoslow.md).
 
 
