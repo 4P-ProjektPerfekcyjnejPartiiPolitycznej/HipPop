@@ -347,7 +347,7 @@ Jeśli masz inny system proszę podaj go w [tym plik](https://github.com/PartiaL
 ## Etap 3: Ustalenie wymagń dla kandydatów.
 Każdy kto będzie kandydował z HipHop na pewno musi przedstawić opinii publicznej swoje CV, list motywacyjny i wypełnić odpowiednią ankietę. 
 
-## Etap4: Ustalenie stylu pracy w sejmie
+## Etap 4: Ustalenie stylu pracy w sejmie
 
 Bycie posłem to nie przywilej tylko praca, dodatkowo bardzo ważna i droga dla podatników. Dlatego jednym z podprojektów HipPop jest [burza mózgów](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow) jak powinni pracować posłowie.
 
@@ -359,6 +359,6 @@ Nowy model pracy opiera się na poniższych założeniach:
 z dodatkowymi prawami i obowiązkami [określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/PrawaObowiazkiZakazy.md),
 - wdrażanie dobrych praktyk z korporacji (praca w systemie  Scrum ,monitorowanie czasu, kanban). [Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/NoweStandardyPracy.md),
 - wykorzystywanie nowoczesnych technologii ( praca w chmurze, jira). [Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/NoweTechnologie.md)
-- zatrudnienie jednej sekretarki i wielu specjalistów(np. osoby do robienie analiz ryzyka i statystycznych, programisty, tłumacza). [Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/WspolpracownicyPoslow.md).
+- zatrudnienie jednej sekretarki i wielu specjalistów (np. osoby do robienie analiz ryzyka i statystycznych, programisty, tłumacza). [Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/WspolpracownicyPoslow.md).
 
 
