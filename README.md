@@ -7,7 +7,7 @@ Hip-Pop jest projektem społecznym którego celem jest założenie partii polity
 
 Projekt składa on się z czterech etapów:
 
-## Etap1: Przypisanie do każdego z 41 okręgów wyborczych specjalizacje której reprezentanci są potrzebni w sejmie.
+## Etap1: Przypisanie do każdego z 41 okręgów wyborczych specjalizacji której reprezentanci są potrzebni w sejmie.
 Aktualne, nie ostateczne specjalizacje okręgów:
 
 <table class="table table-bordered table-hover table-condensed">
@@ -357,8 +357,8 @@ Nowy model pracy opiera się na poniższych założeniach:
 - jedno wspólne biuro w Warszawie,
 - praca przez cały rok z 26 dniami urlopu jak normalny pracownik biurowy
 z dodatkowymi prawami i obowiązkami [określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/PrawaObowiazkiZakazy.md),
-- wdrażanie dobrych praktyk z korporacji (praca w systemie  Scrum ,monitorowanie czasu, kanban). [Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/NoweStandardyPracy.md),
-- wykorzystywanie nowoczesnych technologii ( praca w chmurze, jira). [Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/NoweTechnologie.md)
-- zatrudnienie jednej sekretarki i wielu specjalistów (np. osoby do robienie analiz ryzyka i statystycznych, programisty, tłumacza). [Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/WspolpracownicyPoslow.md).
+- wdrażanie dobrych praktyk z korporacji (praca w systemie  Scrum ,monitorowanie czasu, kanban). [Link](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/NoweStandardyPracy.md),
+- wykorzystywanie nowoczesnych technologii ( praca w chmurze, jira). [Link](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/NoweTechnologie.md)
+- zatrudnienie jednej sekretarki i wielu specjalistów (np. osoby do robienie analiz ryzyka i statystycznych, programisty, tłumacza). [Link](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/WspolpracownicyPoslow.md).
 
 
