@@ -1,3 +1,5 @@
+(Alternatywa dla projektu pln21, projekt na chwilę obecna jest podrzędny do pln21. Ostatecznie tylko jeden z nich zostanie wdrożony)
+
 # HipPop -- nowoczesna(hip) partia organizacji pozarządowych.
 
 Mamy w kraju wiele organizacji pozarządowych które wiedzą jak rozwiązać  problemy w kraju. Niestety ich eksperci nie mają możliwości kandydować do sejmu gdzie te problemy się rozwiązuje. 
